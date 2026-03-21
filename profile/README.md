@@ -1,9 +1,5 @@
 # Jobify Community
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Supported Python versions](https://img.shields.io/pypi/pyversions/jobify.svg)](https://pypi.org/project/jobify)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/theseriff/jobify/pr_tests.yml?branch=main)](https://github.com/theseriff/jobify/actions)
-
 **Jobify** is a modern, high-precision, and robust `asyncio` task management framework for Python. We are building a high-performance ecosystem for event-driven background job scheduling.
 
 ---
