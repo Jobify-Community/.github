@@ -19,6 +19,7 @@
 
 - **[jobify](https://github.com/theseriff/jobify):** The core framework for modern task management.
 - **[jobify-db](https://github.com/Jobify-Community/jobify-db):** Database adapters for Jobify: PostgreSQL, MongoDB, and more..
+- **[dishka-jobify](https://github.com/Jobify-Community/dishka-jobify)** Dishka framework integration for Jobify.
 - **`jobify-distributed` (Upcoming):** Scalable, multi-worker task distribution for high-load environments.
 
 ---
